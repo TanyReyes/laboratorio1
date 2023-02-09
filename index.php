@@ -24,7 +24,7 @@
 
 <body>
 
-    <div class="container w-75 formulario mt-5 rounded shadow"  style="background-color: #EFF5F8;">
+    <div class="container w-75 mt-5 rounded shadow"  style="background-color: #EFF5F8;">
         <div class="row align-items-stretch">
             <!--agregamos 2 columnas para contenido-->
 
